@@ -11,3 +11,7 @@ p{
 	color: #333333;
 	text-align: center;
 }
+p.footer{
+	float: right;
+	color: #333333;
+}
