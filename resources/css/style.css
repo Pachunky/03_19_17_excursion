@@ -1,0 +1,13 @@
+body{
+	background-color: #000000;
+}
+
+h1, h2{
+	color: white;
+	text-align: center;
+}
+
+p{
+	color: #333333;
+	text-align: center;
+}
